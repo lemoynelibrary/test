@@ -4,4 +4,6 @@ I want to get a handle on forking repos, submitting issues, and submitting pull 
 
 Here's a video showing how to fork a repo, make a change, and submit a pull request back to the original repo.
 
-<iframe width="640" height="360" src="https://www.youtube.com/embed/FQsBmnZvBdc" frameborder="0" allowfullscreen></iframe>
+[![Git & GitHub: Pull requests](https://img.youtube.com/vi/FQsBmnZvBdc/0.jpg)](https://www.youtube.com/watch?v=FQsBmnZvBdc)
+
+[Git & GitHub: Pull requests](https://www.youtube.com/watch?v=FQsBmnZvBdc) 5:58 (YouTube)
